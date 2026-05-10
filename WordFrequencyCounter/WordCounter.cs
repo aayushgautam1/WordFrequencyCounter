@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace WordCounterV1
+namespace WordCounterV2
 {
     public class WordCounter
     {

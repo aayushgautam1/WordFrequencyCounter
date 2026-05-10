@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace WordCounterV1
+namespace WordCounterV2
 {
     public class FileReader
     {
